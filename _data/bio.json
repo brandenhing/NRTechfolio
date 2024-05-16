@@ -14,6 +14,8 @@
   },
   "interests": [
     { "name": "Decarbonization of Electric Power Systems" },
+    { "name": "Renewable Energy Technology" },
+    { "name": "Sustainable Food Systems" },
     { "name": "Resource Economics" }
   ],
   "skills": [
@@ -35,19 +37,28 @@
       "endDate": "Present",
       "courses": [
       ]
+    },
+    {
+      "institution": "Bucknell Univeristy, Lewisburg, PA",
+      "area": "Mechanical Engineering",
+      "studyType": "B.S.",
+      "startDate": "2013-09-01",
+      "endDate": "2017-05-01",
+      "courses": [
+      ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
+      "company": "Netskope, Inc.",
+      "position": "Cloud Risk Analyst",
+      "website": "https://www.netskope.com/",
+      "startDate": "2017-06-01",
+      "endDate": "2019-03-01",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Analyzed data logs from perimeter security devices (proxies and firewalls) and from Netskope's deep API inspection engine to communicate risk and potential threats regarding data usage and leakage within a customer's environment",
+        "Utilized spreadsheet and display tools to create visual presentations with qualitative observations formed on the basis of quantitative data sets, highlighting the number of observed instances of risks like PII/PCI leakage, anonymity network usage, overexposed sensitive/proprietary data, etc."
       ]
     },
     {
