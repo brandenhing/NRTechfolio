@@ -5,19 +5,16 @@
     "picture": "https://github.com/kambergjohnson.png",
     "email": "bhing@hawaii.edu",
     "website": "https://brandenhing.github.io/NRTechfolio/",
-    "summary": "I am an NRT DESCARTS trainee studying for a Ma in Economics in the Department of Economics at the University of Hawaii. I expect to graduate in Spring 2025.",
+    "summary": "I am an NRT DESCARTS trainee studying for a MA in Economics in the Department of Economics at the University of Hawaii. I expect to graduate in Spring 2025.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "brandenhing", "url": "http://github.com/changeme" },
+      { "network": "github", "username": "brandenhing", "url": "https://github.com/brandenhing" },
       { "network": "linkedin", "username": "Branden Hing", "url": "https://www.linkedin.com/in/branden-hing-536631110/" },
     ]
   },
   "interests": [
-    { "name": "Neuromorphic Analytics" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Decarbonization of Electric Power Systems" },
+    { "name": "Resource Economics" },
   ],
   "skills": [
     {
@@ -32,9 +29,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "M.S.",
-      "startDate": "2013-09-01",
+      "area": "Economics (expected Spring 2025)",
+      "studyType": "M.A.",
+      "startDate": "2024-09-01",
       "endDate": "Present",
       "courses": [
       ]
