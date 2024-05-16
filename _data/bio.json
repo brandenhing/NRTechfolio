@@ -38,6 +38,15 @@
       "courses": [
       ]
     },
+      {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Renewable Energy and Island Sustainability",
+      "studyType": "Graduate Certificate",
+      "startDate": "2023-09-01",
+      "endDate": "2024-05-01",
+      "courses": [
+      ]
+    },
     {
       "institution": "Bucknell Univeristy, Lewisburg, PA",
       "area": "Mechanical Engineering",
@@ -55,22 +64,24 @@
       "website": "https://www.netskope.com/",
       "startDate": "2017-06-01",
       "endDate": "2019-03-01",
-      "summary": "Head of online presence for Ka Leo",
       "highlights": [
         "Analyzed data logs from perimeter security devices (proxies and firewalls) and from Netskope's deep API inspection engine to communicate risk and potential threats regarding data usage and leakage within a customer's environment",
         "Utilized spreadsheet and display tools to create visual presentations with qualitative observations formed on the basis of quantitative data sets, highlighting the number of observed instances of risks like PII/PCI leakage, anonymity network usage, overexposed sensitive/proprietary data, etc."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Netskope, Inc.",
+      "position": "Customer Succes Manager",
+      "website": "https://www.netskope.com/",
+      "startDate": "2019-03-01",
+      "endDate": "2022-08-26",
+      "summary":"As a CSM, my primary responsibilities were to oversee the adoption process of Netskope's software within a customer's environment, which could involve any number of tasks such as:",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Tracking software deployment and security policy implementation within a client's IT infrastructure",
+        "Relaying updates regarding critical bugs or feature requests between relevant internal and external stakeholders",
+        "Developing playbooks and other resources to help communicate best practices to both executive and technical roles",
+        "Conducting quarterly business reviews of a customer's adoption process of the technology, both as customer-facing and internal presentations",
+        "During my 3-1/2 years in this position, I was concurrently managing over 40 different customers of varying sizes, from small-to-medium sized business to Fortune 500 companies, overseeing nearly 100 unique accounts over the course of my time at Netskope"
       ]
     }
   ],
