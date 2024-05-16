@@ -60,17 +60,6 @@
   "work": [
     {
       "company": "Netskope, Inc.",
-      "position": "Cloud Risk Analyst",
-      "website": "https://www.netskope.com/",
-      "startDate": "2017-06-01",
-      "endDate": "2019-03-01",
-      "highlights": [
-        "Analyzed data logs from perimeter security devices (proxies and firewalls) and from Netskope's deep API inspection engine to communicate risk and potential threats regarding data usage and leakage within a customer's environment",
-        "Utilized spreadsheet and display tools to create visual presentations with qualitative observations formed on the basis of quantitative data sets, highlighting the number of observed instances of risks like PII/PCI leakage, anonymity network usage, overexposed sensitive/proprietary data, etc."
-      ]
-    },
-    {
-      "company": "Netskope, Inc.",
       "position": "Customer Succes Manager",
       "website": "https://www.netskope.com/",
       "startDate": "2019-03-01",
@@ -82,6 +71,17 @@
         "Developing playbooks and other resources to help communicate best practices to both executive and technical roles",
         "Conducting quarterly business reviews of a customer's adoption process of the technology, both as customer-facing and internal presentations",
         "During my 3-1/2 years in this position, I was concurrently managing over 40 different customers of varying sizes, from small-to-medium sized business to Fortune 500 companies, overseeing nearly 100 unique accounts over the course of my time at Netskope"
+      ]
+    },
+    {
+      "company": "Netskope, Inc.",
+      "position": "Cloud Risk Analyst",
+      "website": "https://www.netskope.com/",
+      "startDate": "2017-06-01",
+      "endDate": "2019-03-01",
+      "highlights": [
+        "Analyzed data logs from perimeter security devices (proxies and firewalls) and from Netskope's deep API inspection engine to communicate risk and potential threats regarding data usage and leakage within a customer's environment",
+        "Utilized spreadsheet and display tools to create visual presentations with qualitative observations formed on the basis of quantitative data sets, highlighting the number of observed instances of risks like PII/PCI leakage, anonymity network usage, overexposed sensitive/proprietary data, etc."
       ]
     }
   ],
